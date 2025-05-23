@@ -1,6 +1,6 @@
 ## 👋 Olá, seja bem-vindo(a) ao meu perfil!
 
-Me chamo [Seu Nome] e sou apaixonado(a) por desenvolvimento de sistemas e automações em Python.
+Me chamo Daniele Cristina e sou apaixonada por desenvolvimento de sistemas e automações em Python.
 
 🎯 Foco atual:
 - Automação de tarefas repetitivas (bot para sites, WhatsApp, planilhas)
