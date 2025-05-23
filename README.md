@@ -1,16 +1,16 @@
-## Hi there 👋
+## 👋 Olá, seja bem-vindo(a) ao meu perfil!
 
-<!--
-**DanyCris2024/DanyCris2024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Me chamo [Seu Nome] e sou apaixonado(a) por desenvolvimento de sistemas e automações em Python.
 
-Here are some ideas to get you started:
+🎯 Foco atual:
+- Automação de tarefas repetitivas (bot para sites, WhatsApp, planilhas)
+- Criação de sistemas simples com interfaces gráficas (Tkinter)
+- Desenvolvimento de soluções para pequenos negócios
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 Em aprendizado contínuo:
+- Estruturação de código com POO e modulação
+- Integração de bancos de dados SQLite
+- Interface gráfica atrativa com Tkinter
+
+🚀 Objetivo:
+Ajudar empresas e pessoas a automatizar tarefas e ganhar tempo com soluções simples e eficazes.
